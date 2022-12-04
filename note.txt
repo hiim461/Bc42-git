@@ -22,3 +22,8 @@
 
 
 -git clone "link": Tai remote repository ve may tinh
+
+
+-git checkout: chuyen sang 1 branch khac 
+    +git checkout -b branch-name: tao branch moi
+    +git checkout branch-name: chuyen sang branch khac
