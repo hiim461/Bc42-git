@@ -1,3 +1,7 @@
+- Cau hinh git cho user(chi can lam 1 lan duy nhat)
+    + git config --global user.name "Your name"
+    + git config --global user.name "Your email"
+
 -git init:  khoi tao git cho 1 project(chi can dung 1 lan duy nhat)
 
 -git add: sap xep cai file da bi thay doi, them moi, hoac xxoa so voi lan commit truoc do, de chan bi cho lan commit tiep theo 
@@ -9,3 +13,12 @@
     +git commit -m "message commit" 
 
 -git log: xem lai lich su commit 
+
+
+-git status: xem trang thai hien tai cua thu muc lam viec, no se hien thi nhung files thay doi so voi lan commit truoc do, dong thoi hien thi trang thai cua cac files do(nhu la da duoc xxac nhan de commit hay chua)
+
+
+-git push -u origin master:  day tat ca commit len tren remote repository
+
+
+-git clone "link": Tai remote repository ve may tinh
